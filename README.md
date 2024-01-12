@@ -45,8 +45,3 @@ Model performance is evaluated using metrics such as accuracy, precision, recall
 ## Results
 The final results are presented in a DataFrame, summarizing the performance of each model based on different metrics.
 
-Feel free to explore, modify, and experiment with the code to improve the model or adapt it for your specific needs.
-
-
-
- 
