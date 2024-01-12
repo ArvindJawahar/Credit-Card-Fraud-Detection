@@ -31,7 +31,7 @@ Three different models are implemented and evaluated:
 - scikit-learn
 
 Install the required dependencies using the following command:  
-pip install pandas seaborn numpy matplotlib scikit-learn
+### pip install pandas seaborn numpy matplotlib scikit-learn
 
 ## Data
 The dataset used for this project is loaded from the "creditcard.csv" file.  
