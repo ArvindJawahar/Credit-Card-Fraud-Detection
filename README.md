@@ -23,7 +23,7 @@ Credit card fraud is a significant concern for financial institutions. This proj
 - matplotlib
 - scikit-learn
 
-Install the required dependencies using the following command:
+Install the required dependencies using the following command: \n
 pip install pandas seaborn numpy matplotlib scikit-learn
 
 ## Data
