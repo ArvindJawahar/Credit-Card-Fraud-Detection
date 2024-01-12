@@ -19,9 +19,9 @@ The code includes data loading, exploratory data analysis, feature engineering, 
 Credit card fraud is a significant concern for financial institutions.  
 This project aims to develop a machine learning model to predict fraudulent transactions.  
 Three different models are implemented and evaluated:  
-1. [Logistic Regression](#logistic regression)   
-2. [ Support Vector Machine (SVM)](# Support Vector Machine (SVM))
-3. [Decision Tree](#Decision Tree)
+1. Logistic Regression  
+2. Support Vector Machine (SVM)  
+3. Decision Tree]  
 
 ## Dependencies
 - pandas
